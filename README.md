@@ -4,7 +4,7 @@
 ### 🎮 Sobre o Jogo
 
 **CANOON** é um jogo em que você controla um canhão e deve acertar o alvo em diferentes fases ou praticar livremente. 
-Com física realista baseada em parábolas, ojogador pode controlar força e direção com o mouse. O jogo inclui:
+Com física realista baseada em parábolas, o jogador pode controlar força e direção com o mouse. O jogo inclui:
 
 * 🎯 Modo Livre: pratique seus lançamentos sem restrições.
 * 🧩 Modo Fases: enfrente obstáculos progressivos e resolva desafios físicos.
@@ -24,16 +24,24 @@ Com física realista baseada em parábolas, ojogador pode controlar força e dir
 
 #### Instalação:
 
-bash
-pip install pygame, math, sys, numpy
+```bash
+pip install pygame
+pip install sys
+pip install math
+pip install numpy
+```
 
 #### Execução:
 
-bash
+```bash
 python main.py
+```
+
+---
 
 ### 📂 Estrutura do Projeto
 
+```
 CANOON/
 ├── main.py                  # Início do jogo (menu principal)
 ├── modo_livre.py           # Lógica do modo livre
@@ -42,8 +50,9 @@ CANOON/
 ├── settings.py             # Tela, fonte, clock e outras configurações globais
 ├── assets/                 # Pasta opcional com imagens, sons etc.
 └── README.md               # Este arquivo
+```
 
-
+---
 
 ### 🎓 Conceitos Envolvidos
 
@@ -65,6 +74,10 @@ CANOON/
 ### 👨‍💻 Autor
 
 **Lucas Miranda**
+
+Se estiver hospedado no GitHub, adicione:
+
+[![GitHub](https://img.shields.io/badge/GitHub-Lucas--Miranda-black?logo=github)](https://github.com/seu_usuario)
 
 ---
 
