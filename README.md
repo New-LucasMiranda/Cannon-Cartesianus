@@ -71,13 +71,4 @@ CANOON/
 
 ---
 
-### 👨‍💻 Autor
-
-**Lucas Miranda**
-
-Se estiver hospedado no GitHub, adicione:
-
-[![GitHub](https://img.shields.io/badge/GitHub-Lucas--Miranda-black?logo=github)](https://github.com/seu_usuario)
-
----
 
